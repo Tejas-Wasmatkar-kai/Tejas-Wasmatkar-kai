@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tejas Wasmatkar
+- 👀 I’m interested in Learning new Technologies and working on projects.
+- 🌱 I’m currently learning Python, Data Structures, REST API's etc.
